@@ -77,8 +77,8 @@ Contributions are welcome! Feel free to fork the repository and open a pull requ
 
 ### 👤 Author
 
-**Aazan Noor Khuwaja**
-**Object-Oriented-Programing-Project**
-**National University Of Computer and Emerging Sciences**
-[LinkedIn Profile](https://www.linkedin.com/in/aazan-noorkhuwaja-70953927b)
-[aazannoorkhuwajagmail.com](mailto:aazannoorkhuwaja@gmail.com)
+- **Aazan Noor Khuwaja**
+- **Object-Oriented-Programing-Project**
+- **National University Of Computer and Emerging Sciences**
+- [LinkedIn Profile](https://www.linkedin.com/in/aazan-noorkhuwaja-70953927b)
+- [aazannoorkhuwajagmail.com](mailto:aazannoorkhuwaja@gmail.com)
