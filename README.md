@@ -2,7 +2,7 @@
 
 A simple command-line based stock market simulator written in C++. This project allows users to buy and sell stocks using virtual currency while simulating changes in stock prices over time. It serves as a learning project to understand basic C++ concepts like file handling, arrays, conditionals, loops, and user interaction.
 
-## 💡 Features
+## Features
 
 - Simulated stock trading (buy/sell)
 - Virtual wallet for managing funds
@@ -10,7 +10,7 @@ A simple command-line based stock market simulator written in C++. This project 
 - Portfolio tracking
 - Easy-to-understand logic for beginners
 
-## 🧱 Technologies Used
+## Technologies Used
 
 - **Language:** C++
 - **Compiler:** g++ or any standard C++ compiler
@@ -26,7 +26,7 @@ A simple command-line based stock market simulator written in C++. This project 
 
 ````
 
-## 🚀 Getting Started
+## Getting Started
 
 ### 1. Clone the Repository
 ```bash
@@ -48,7 +48,7 @@ g++ main.cpp -o stock_simulator
 ./stock_simulator
 ```
 
-## 🧑‍💻 Usage
+## Usage
 
 * Start the simulator.
 * Choose options from the menu (Buy, Sell, View Portfolio, Exit).
@@ -59,7 +59,7 @@ g++ main.cpp -o stock_simulator
 
 *(Add screenshots here once available to visually showcase the terminal interface.)*
 
-## 🎯 Purpose of the Project
+## Purpose of the Project
 
 This project was created for learning purposes to strengthen core C++ concepts such as:
 
@@ -73,10 +73,6 @@ This project was created for learning purposes to strengthen core C++ concepts s
 
 Contributions are welcome! Feel free to fork the repository and open a pull request with suggestions or improvements.
 
-## 📄 License
-
-This project is licensed under the MIT License. See the `LICENSE` file for details.
-
 ---
 
 ### 👤 Author
@@ -86,10 +82,3 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 **National University Of Computer and Emerging Sciences**
 [LinkedIn Profile](https://www.linkedin.com/in/aazan-noorkhuwaja-70953927b)
 📧 [aazannoorkhuwajagmail.com](mailto:aazannoorkhuwaja@gmail.com)
-
-```
-
----
-
-Let me know if you want me to add badges, a GIF demo, or instructions for Windows users specifically.
-```
