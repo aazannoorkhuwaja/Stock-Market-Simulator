@@ -54,21 +54,21 @@ g++ main.cpp -o stock_simulator
 * Choose options from the menu (Buy, Sell, View Portfolio, Exit).
 * Follow prompts to make trades.
 * Watch stock prices change over time.
-
+* 
 ## 📸 Screenshots
 
-![Screenshot 1](Samples%20Of%20Code%20&%20execution/pic-full-250726-1705-46.png)
-![Screenshot 2](Samples%20Of%20Code%20&%20execution/pic-full-250726-1706-01.png)
-![Screenshot 3](Samples%20Of%20Code%20&%20execution/pic-full-250726-1706-18.png)
-![Screenshot 4](Samples%20Of%20Code%20&%20execution/pic-full-250726-1707-04.png)
-![Screenshot 5](Samples%20Of%20Code%20&%20execution/pic-full-250726-1707-39.png)
-![Screenshot 6](Samples%20Of%20Code%20&%20execution/pic-full-250726-1708-15.png)
-![Screenshot 7](Samples%20Of%20Code%20&%20execution/pic-full-250726-1708-45.png)
-![Screenshot 8](Samples%20Of%20Code%20&%20execution/pic-full-250726-1709-21.png)
-![Screenshot 9](Samples%20Of%20Code%20&%20execution/pic-full-250726-1709-43.png)
-![Screenshot 10](Samples%20Of%20Code%20&%20execution/pic-full-250726-1710-21.png)
-![Screenshot 11](Samples%20Of%20Code%20&%20execution/pic-full-250726-1710-58.png)
-![Screenshot 12](Samples%20Of%20Code%20&%20execution/pic-full-250726-1711-07.png)
+![Screenshot 1](samples/pic-full-250726-1705-46.png)
+![Screenshot 2](samples/pic-full-250726-1706-01.png)
+![Screenshot 3](samples/pic-full-250726-1706-18.png)
+![Screenshot 4](samples/pic-full-250726-1707-04.png)
+![Screenshot 5](samples/pic-full-250726-1707-39.png)
+![Screenshot 6](samples/pic-full-250726-1708-15.png)
+![Screenshot 7](samples/pic-full-250726-1708-45.png)
+![Screenshot 8](samples/pic-full-250726-1709-21.png)
+![Screenshot 9](samples/pic-full-250726-1709-43.png)
+![Screenshot 10](samples/pic-full-250726-1710-58.png)
+![Screenshot 11](samples/pic-full-250726-1711-07.png)
+
 
 
 ## Purpose of the Project
