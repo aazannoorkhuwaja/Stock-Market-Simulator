@@ -69,8 +69,6 @@ g++ main.cpp -o stock_simulator
 ![Screenshot 10](Samples%20Of%20Code%20&%20execution/pic-full-250726-1710-21.png)
 ![Screenshot 11](Samples%20Of%20Code%20&%20execution/pic-full-250726-1710-58.png)
 ![Screenshot 12](Samples%20Of%20Code%20&%20execution/pic-full-250726-1711-07.png)
-![Screenshot 13](Samples%20Of%20Code%20&%20execution/pic-selected-250628-1623-26.png)
-![Screenshot 14](Samples%20Of%20Code%20&%20execution/pic-selected-250721-1557-15.png)
 
 
 ## Purpose of the Project
