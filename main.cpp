@@ -3,7 +3,6 @@
 #include <cstdlib>
 #include <ctime>
 #include <string>
-#include <conio.h>
 using namespace std;
 
 const int MAX_USERS = 100;
@@ -914,7 +913,6 @@ int main() {
     cout << "|                  This simulation allows you to trade stocks, view market data, and manage your portfolio.                        |\n";
     cout << "|                  You can create a demo account to practice trading.                                                              |\n";
     cout << "|                           -> Developed by: Aazan Noor Khuwaja                                                                    |\n";
-    cout << "|                           -> Student ID: 24P-0706                                                                                |\n";
     cout << "|                           -> Course: Object Oriented Programming                                                                 |\n";
     cout << "|                           -> National University of Computer and Emerging Sciences                                               |\n";
     cout << "|==================================================================================================================================|\n";
