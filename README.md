@@ -54,7 +54,7 @@ g++ main.cpp -o stock_simulator
 * Choose options from the menu (Buy, Sell, View Portfolio, Exit).
 * Follow prompts to make trades.
 * Watch stock prices change over time.
-* 
+  
 ## 📸 Screenshots
 
 ![Screenshot 1](samples/pic-full-250726-1705-46.png)
